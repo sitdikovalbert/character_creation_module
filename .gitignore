@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# temp file
+*temp.py
+temp*.py
+
+
 # C extensions
 *.so
 
@@ -127,6 +132,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# temp file
-temp.py
